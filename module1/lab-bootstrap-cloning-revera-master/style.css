@@ -1,0 +1,15 @@
+.hiro {
+    background-color: #ff0000;
+    display: flex;
+    justify-content: center; 
+}
+.title {
+    margin-right: 300px;
+}   
+}
+.hiro ul {
+    display: flex;
+}
+.hiro li {
+    margin-left: 10px;
+}
