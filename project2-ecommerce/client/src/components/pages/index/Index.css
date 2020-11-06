@@ -1,0 +1,7 @@
+main {
+    background-color: white;
+}
+.test:hover {
+    background-color: rgba(119, 176, 244, 0.2);
+    opacity: 1;
+}
